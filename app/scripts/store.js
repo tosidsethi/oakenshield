@@ -1,0 +1,1 @@
+Oakenshield.ApplicationAdapter = DS.FixtureAdapter;
